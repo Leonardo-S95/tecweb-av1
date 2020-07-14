@@ -1,4 +1,4 @@
 
 ## Preview
 
-[![Preview](https://i.ibb.co/ByLhFm6/site-screenshot.png)](https://studiomix.000webhostapp.com/#/)
+[![Preview](https://i.ibb.co/cbNCm6r/site-screenshot.png)](https://studiomix.000webhostapp.com/#/)
